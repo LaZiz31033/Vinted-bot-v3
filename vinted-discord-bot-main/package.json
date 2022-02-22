@@ -1,11 +1,11 @@
 {
   "name": "vinted-discord-bot",
   "version": "3.17.0",
-  "main": "index.js",
+  "main": "./index.js",
   "author": "Androz2091 <androz2091@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node create-db.js && node create-cmds && node index.js",
+    "start": "node create-db.js && node create-cmds && node ./index.js",
     "build": "tsc"
   },
   "dependencies": {

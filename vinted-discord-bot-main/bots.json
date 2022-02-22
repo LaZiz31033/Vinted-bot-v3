@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Eleo",
+        "token": "process.env.TOKEN",
+        "adminIDs": "769300547005841419"
+    }
+]
